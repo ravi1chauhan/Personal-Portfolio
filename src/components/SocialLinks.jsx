@@ -41,7 +41,7 @@ const SocialLinks = () => {
                 </>
             ),
             // href: "/RaviResume.pdf",
-            href: "https://drive.google.com/file/d/1ytU4vWPeIb0OEJa7MLkU9NxAROfX3UOX/view?usp=sharing",
+            href: "https://drive.google.com/file/d/1cco5qV_TmbaiunIA7rHSEczDsQ882X4Y/view?usp=sharing",
             style: "rounded-br-md",
             // download: true,
             download: false,
