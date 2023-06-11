@@ -14,7 +14,14 @@ const About = () => {
                 </div>
 
                 <p className="text-xl mt-10 md:mt-20">
-                    Hello, my name is Ravi Chauhan. As an aspiring software developer and programmer, I am currently pursuing my final year undergraduate B.tech in Computer Science and Business Systems (CSBS) from Bharati Vidyapeeth Deemed University College of Engineering. My keen interest in programming and software development has instilled in me the necessary technical skills and knowledge to excel in this field!
+                    Hello, my name is Ravi Chauhan and recently I have completed Bachelors in Technology (B.Tech) from Bharati Vidyapeeth Deemed University College of Engineering and my specialisation in Computer Science and Business Systems and I am a technology enthusiast.
+                    I have experience with coding languages like C, C++, Java, HTML, Javascript and SQL as well as modern library and framework like ReactJs & NodeJs!
+                </p>
+
+                <br />
+
+                <p className="text-xl">
+                    As an aspiring software developer and programmer, My keen interest in programming and software development has instilled in me the necessary technical skills and knowledge to excel in this field!
                 </p>
 
                 <br />

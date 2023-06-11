@@ -57,7 +57,7 @@ export default Home;
 // const Home = () => {
 //     const handleGetResumeClick = () => {
 //         // window.open("https://example.com/resume.pdf", "_blank");
-//         window.open("https://drive.google.com/file/d/1cco5qV_TmbaiunIA7rHSEczDsQ882X4Y/view?usp=sharing", "_blank");
+//         window.open("https://drive.google.com/file/d/1J-Wj8yowM7hY6gNI9lYl3Sbxb0rDKZKP/view?usp=sharing", "_blank");
 //     };
 
 //     return (
