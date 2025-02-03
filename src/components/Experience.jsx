@@ -9,8 +9,8 @@ import reactImage from "../assets/react.png";
 import node from "../assets/node.png";
 import tailwind from "../assets/tailwind.png";
 import github from "../assets/github.png";
-import Angular from "../assets/nextjs.png";
-import typescript from "../assets/graphql.png";
+import Angular from "../assets/Angular.png";
+import typescript from "../assets/typescript.png";
 import java from "../assets/java.png";
 
 const Experience = () => {
