@@ -14,26 +14,25 @@ const About = () => {
                 </div>
 
                 <p className="text-xl mt-10 md:mt-20">
-                    Hello, my name is Ravi Chauhan and recently I have completed Bachelors in Technology (B.Tech) from Bharati Vidyapeeth Deemed University College of Engineering and my specialisation in Computer Science and Business Systems and I am a technology enthusiast.
-                    I have experience with coding languages like C, C++, Java, HTML, Javascript and SQL as well as modern library and framework like ReactJs & NodeJs!
+                    Hello, my name is Ravi Chauhan. I am a Software Engineer at Reserve Bank Information Technology (ReBIT) with experience in Angular development. I specialize in building scalable web applications, API integration, and UI/UX enhancements.
                 </p>
 
                 <br />
 
                 <p className="text-xl">
-                    As an aspiring software developer and programmer, My keen interest in programming and software development has instilled in me the necessary technical skills and knowledge to excel in this field!
+                    Passionate about software development, I have hands-on experience with modern technologies, including Angular, JavaScript, TypeScript, and SQL. I thrive in Agile environments, collaborating with teams to deliver high-quality solutions.
                 </p>
 
                 <br />
 
                 <p className="text-xl">
-                    I am now seeking opportunities to kick-start my career in software development and programming, where I can leverage my skills and knowledge to deliver high-quality solutions to complex problems. With a sharp eye for detail and a proactive approach to problem-solving, I am confident in my ability to contribute to any team that I join!
+                    I am continuously expanding my expertise in full-stack development and cloud technologies to stay ahead in the ever-evolving tech industry. I enjoy problem-solving and optimizing performance to enhance user experiences.
                 </p>
 
                 <br />
 
                 <p className="text-xl">
-                    My passion for programming and software development, combined with my technical skills and commitment to excellence, make me a valuable asset to any organization!
+                    With a strong foundation in web development and a growth-oriented mindset, I am eager to take on new challenges and contribute meaningfully to innovative projects.
                 </p>
             </div>
         </div>

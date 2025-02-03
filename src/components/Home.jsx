@@ -15,7 +15,7 @@ const Home = () => {
                         Hi, Welcome to my world!
                     </h2>
                     <p className="text-gray-500 py-4 max-w-md">
-                        I am a passionate Software Engineer with a background in programming, who enjoys solving problems. Currently, I love to work on web applications using technologies like MongoDB, Express, React, Node.js, and Tailwind CSS.
+                    I am a Software Engineer with experience in Angular development at ReBIT, specializing in web application development, API integration, and UI/UX enhancements. Passionate about continuous learning, I am currently expanding my skills in full-stack and cloud technologies to become a well-rounded software developer.
                     </p>
 
                     <div>

@@ -23,7 +23,7 @@ const Footer = () => {
         {
             id: 4,
             icon: <BsFillPersonLinesFill size={20} />,
-            href: "https://drive.google.com/file/d/1J-Wj8yowM7hY6gNI9lYl3Sbxb0rDKZKP/view?usp=sharing",
+            href: "https://drive.google.com/file/d/1ZLhJ5Shm6JDRS9yekKPmLiyR9jDdDsBo/view?usp=sharing",
         },
     ];
 
